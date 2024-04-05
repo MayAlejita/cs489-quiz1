@@ -1,0 +1,2 @@
+The system should allow User register the information of new Contacts.
+The system should allow User to search/update/delete the Contacts.
